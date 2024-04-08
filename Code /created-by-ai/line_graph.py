@@ -1,4 +1,4 @@
-"""You need to import matplotlyb"""
+"""You need to import matplotlib"""
 
 import matplotlib.pyplot as plt
 def line_plot():
