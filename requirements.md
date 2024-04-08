@@ -1,4 +1,13 @@
-You need to install openai and colorama for this to work.
+## Create an OpenAI API key.
+1. Navigate to the @[OpenAI website](https://platform.openai.com/).
+2. Create an OpenAI account.
+3. Verify your account.
+4. Log in.
+5. In the left menu, click API keys.
+6. Create a new secret API key. Remember to store it, as OpenAI won't show it again.
+7. In the python code, change {your_API_key} by your API key. 
+
+You also need to install openai and colorama for this to work.
 
 - ### openai
     #### (Used to create the Artificial Intelligence):
