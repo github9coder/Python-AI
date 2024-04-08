@@ -1,5 +1,5 @@
 ## Create an OpenAI API key.
-1. Navigate to the @[OpenAI website](https://platform.openai.com/).
+1. Navigate to the [OpenAI website](https://platform.openai.com/).
 2. Create an OpenAI account.
 3. Verify your account.
 4. Log in.
