@@ -1,6 +1,6 @@
 # Python-AI
   This ai talks about python, and only about python.
-
+![python_ai](https://github.com/github9coder/Python-AI/assets/130998051/04ce1b83-d53d-423c-a14b-0c3d065e9b1b)
   - - -
 ## Description:
   This artificial intelligence should be used __to learn, and create projects on python.__
