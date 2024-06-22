@@ -12,7 +12,7 @@ You can create a new one, __replacing the API key by your own__, by creating an 
     OpenAI.api_key = os.getenv('OPENAI_API_KEY')
 ```
 
-To modify its behavoiur, change the content to whatever you want on:
+To modify its behaviour, change the content to whatever you want on:
 
 ```python
         conversation =  [
